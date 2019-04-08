@@ -730,7 +730,7 @@ views:
                   <<: *style_anchor_main
 #       HOME PICTURE
           - type: picture-elements
-            image: /local/images/image_elements/home.png
+            image: /local/images/image_elements/home2.png
             elements:
               - type: image
                 image: /local/images/image_elements/SVG/alarm-clear-slash.svg
