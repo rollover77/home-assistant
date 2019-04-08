@@ -3,7 +3,7 @@ Lovelace yaml
 
 Thought I would share my Lovelace setup for the app. It’s inspired by one of the concepts from [this medium page](https://medium.muz.li/30-inspiring-examples-of-smart-home-app-617311d96303) which is a link someone else posted a few months ago either on reddit or the HA forums
 
-I’m using the beta iOS app which is why the bottom toolbar is hidden, and the compact-custom-header card to edit the top header
+I’m using the beta iOS app which is why the bottom toolbar is hidden, and the [compact-custom-header card](https://github.com/maykar/compact-custom-header) to edit the top header
 
 The main images are picture-elements and the buttons are icons with styling to give the white circular background
 
