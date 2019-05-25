@@ -14,8 +14,8 @@ The TV remote page has a conditional remote depending on what the harmony activi
 Happy to answer any questions, and will post my uilovelace if people like when I get back to my computer
 <img src="/screenshots/home.png" width="375" height="667">
 
-<img src="/screenshots/sc1.png" width="375" height="667">
+<img src="/sc1.png" width="375" height="667">
 
-<img src="/screenshots/sc2.png" width="375" height="667">
+<img src="/sc2.png" width="375" height="667">
 
-<img src="/screenshots/sc3.png" width="375" height="667">
+<img src="/sc3.png" width="375" height="667">
