@@ -51,23 +51,8 @@ resources:
 
 views:
 
-  - !include lovelace/00_home_view.yaml
+  - !include /00_home_view.yaml
 
-  - !include lovelace/01_living_room_view.yaml
+  - !include /01_living_room_view.yaml
 
-  - !include lovelace/02_alarm_view.yaml
-
-  - !include lovelace/07_kitchen_view.yaml
-
-  - !include lovelace/03_bedroom_view.yaml
-
-  - !include lovelace/04_backend_view.yaml
-
-  - !include lovelace/09_media_view.yaml
-
-  - !include lovelace/08_tv_view.yaml
-
-  #- !include lovelace/05_remote_view.yaml
-
-  - !include lovelace/06_test_view.yaml
 
