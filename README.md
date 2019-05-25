@@ -11,8 +11,6 @@ Pressing the buttons opens a conditional card underneath the main room image, ho
 
 The TV remote page has a conditional remote depending on what the harmony activity is. I need to work on this to make it look a bit nicer. The idea for the remote and the styling (which I also used for the buttons on the main home screen) [came from here](https://community.home-assistant.io/t/context-aware-harmony-remote-setup/106057)
 
-Happy to answer any questions, and will post my uilovelace if people like when I get back to my computer
-<img src="/screenshots/home.png" width="375" height="667">
 
 <img src="/sc1.jpeg" width="375" height="667">
 
